@@ -1,5 +1,10 @@
+//JSX - Html + javascript together
+//Predefined Tag - h1,p
+//JSX - Extended html
+//user defined tag
+//<App />
 function App(){
-  return "Hello World";
+  return <h1>Hello World</h1>;
 }
 
 
